@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_ysl.mk
+    $(LOCAL_DIR)/colt_ysl.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_ysl-user \
-    lineage_ysl-userdebug \
-    lineage_ysl-eng
+    colt_ysl-user \
+    colt_ysl-userdebug \
+    colt_ysl-eng
